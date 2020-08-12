@@ -6,7 +6,7 @@
 1. First create your new project folder. *If you're using VS Code, open a new terminal and write next*
 
 ```javascript
-git clone https://github.com/3rChuss/wtnpm .
+git clone https://github.com/wickedtemplates/WTBoilerplate .
 ```
 
 2. Once the repo is on your computer, let's install it
