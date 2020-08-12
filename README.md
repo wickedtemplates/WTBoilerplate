@@ -27,7 +27,7 @@ Go to the folder tree and open SCSS/main.scss, *edit here your HTML*
 ## SASS OR LESS
 ### Compile and see results:
 
-On your terminal white next:
+On your terminal write next:
 
 ```javascript
 npm run compile:scss
