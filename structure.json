@@ -1,0 +1,44 @@
+{
+    "structure": [
+        {
+            "name": "public",
+            "children":[
+                {
+                    "name":"src",
+                    "children":[
+                        {
+                            "name": "pages",
+                            "children":[]
+                        },
+                        {
+                            "name":"js",
+                            "children":[
+                                {
+                                    "name":"index.js"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"css",
+                            "children":[]
+                        },
+                        {
+                          "name": "imgs",
+                          "children": []
+                        },
+                        {
+                          "name": "fonts",
+                          "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "scss",
+            "children":[{
+                "name":"main.scss"
+            }]
+        }
+    ]
+}
