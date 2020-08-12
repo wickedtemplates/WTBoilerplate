@@ -1,14 +1,13 @@
 {
   "name": "wickedtemplates",
-  "version": "0.3.11",
+  "version": "0.0.1",
   "description": "A WickedTemplates boilerplate ready to style your free/purchased templates",
-  "main": "setup.js",
+  "main": "wt/setup.js",
   "bin": {
-    "setup": "setup.js"
+     "compile": "node-sass sass/main.scss public/css/style.css -w"
   },
   "scripts": {
-    "preinstall": "npm i --prefix ./ folder-structure-generator node-sass",
-    "postinstall": "node setup.js",
+    "postinstall": "node wt/setup.js",
     "compile:sass": "node-sass sass/main.scss public/css/style.css -w"
   },
   "repository": {
