@@ -30,11 +30,11 @@ Go to the folder tree and open SCSS/main.scss, *edit here your html*
 On your teminal white next:
 
 ```javascript
-npm compile:scss
+npm run compile:scss
 or
-npm compile:less
+npm run compile:less
 ```
-Your SCSS file will be "translated" to the style.css.
+Your SCSS/LESS file will be "translated" to the style.css.
 
 ## The public folder would be the one that need to be pubhilsh
 
