@@ -13,17 +13,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/3rChuss/wtnpm.git"
+    "url": "git+https://github.com/wickedtemplates/WTBoilerplate.git"
   },
   "keywords": [
     "wickedtemplates"
   ],
-  "author": "Jesus Abril @3rChuss (www.wickedtemplates.com)",
+  "author": "Wicked Templates",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/3rChuss/wtnpm/issues"
+    "url": "https://github.com/wickedtemplates/WTBoilerplate/issues"
   },
-  "homepage": "https://github.com/3rChuss/wtnpm#readme",
+  "homepage": "https://github.com/wickedtemplates/WTBoilerplate#readme",
   "devDependencies": {},
   "dependencies": {
     "folder-structure-generator": "^1.0.5",
