@@ -1,4 +1,4 @@
-# Wicked Templates Boilerplate ready for you to use it.
+# Wicked Templates Boilerplate ready for you to use it usging SASS or LESS
 
 ### Steps to download and install
 
@@ -24,12 +24,15 @@ npm install
 Now you can stylish as you want, **remember** you can use sass as it's preinstalled.
 Go to the folder tree and open SCSS/main.scss, *edit here your html*
 
+## SASS OR LESS
 ### Compile and see results:
 
 On your teminal white next:
 
 ```javascript
-npm compile
+npm compile:scss
+or
+npm compile:less
 ```
 Your SCSS file will be "translated" to the style.css.
 

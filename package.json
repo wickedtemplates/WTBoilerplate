@@ -4,11 +4,12 @@
   "description": "A WickedTemplates boilerplate ready to style your free/purchased templates",
   "main": "wt/setup.js",
   "bin": {
-     "compile": "node-sass sass/main.scss public/css/style.css -w"
+    "compile": "node-sass sass/main.scss public/css/style.css -w"
   },
   "scripts": {
     "postinstall": "node wt/setup.js",
-    "compile:sass": "node-sass sass/main.scss public/css/style.css -w"
+    "compile:sass": "node-sass sass/main.scss public/src/css/style.css -w",
+    "compile:less": "lessc less/main.less public/src/css/styles.css"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,7 @@
   "devDependencies": {},
   "dependencies": {
     "folder-structure-generator": "^1.0.5",
+    "less": "^3.12.2",
     "node-sass": "^4.14.1"
   }
 }

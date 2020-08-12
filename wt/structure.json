@@ -39,6 +39,12 @@
             "children":[{
                 "name":"main.scss"
             }]
+        },
+        {
+            "name": "less",
+            "children":[{
+                "name":"main.less"
+            }]
         }
     ]
 }
