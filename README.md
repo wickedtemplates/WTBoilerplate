@@ -5,15 +5,15 @@
 **I assume you have preview experience with git, node and the cli**
 1. First create your new project folder. *If you're using VS Code, open a new terminal and write next*
 
-´´´javascript
+```javascript
 git clone https://github.com/3rChuss/wtnpm
-´´´
+```
 
 2. Once the repo is on your computer, let's install it
 
-´´´javascript
+```javascript
 npm install
-´´´
+```
 
 3. Voilà, you already have installed node-sass and a brillian folder structure for your new projec.
 
@@ -28,9 +28,9 @@ Go to the folder tree and open SCSS/main.scss, *edit here your html*
 
 On your teminal white next:
 
-´´´javascript
+```javascript
 npm compile
-´´´
+```
 Your SCSS file will be "translated" to the style.css.
 
 
