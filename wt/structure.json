@@ -23,11 +23,11 @@
                             "children":[]
                         },
                         {
-                          "name": "imgs",
+                          "name": "images",
                           "children": []
                         },
                         {
-                          "name": "fonts",
+                          "name": "typography",
                           "children": []
                         }
                     ]
