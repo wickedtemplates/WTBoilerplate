@@ -1,4 +1,4 @@
-# Wicked Templates Boilerplate ready for you to use it using SASS or LESS
+# Wicked Templates Boilerplate ready to use it with SASS or LESS
 
 ### Steps to download and install
 
