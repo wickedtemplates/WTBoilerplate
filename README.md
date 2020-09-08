@@ -15,7 +15,7 @@ git clone https://github.com/wickedtemplates/WTBoilerplate.
 npm install
 ```
 
-3. Voilà, you already have installed node-sass and a brilliant folder structure for your new project.
+3. Now, you already have installed node-sass and a brilliant folder structure for your new project.
 
 4. Move your HTML template templateName.html to the folder **public**
 
